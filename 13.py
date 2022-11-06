@@ -1,0 +1,8 @@
+s=input("Enter country")
+print(s)
+s1=s.strip()
+print(s1)
+s2=s.lstrip()
+print(s2)
+s3=s.rstrip()
+print(s3)
